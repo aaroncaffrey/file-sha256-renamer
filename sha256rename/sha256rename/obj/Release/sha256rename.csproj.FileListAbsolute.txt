@@ -1,0 +1,5 @@
+c:\users\aaron\documents\visual studio 2015\Projects\sha256rename\sha256rename\bin\Release\sha256rename.exe.config
+c:\users\aaron\documents\visual studio 2015\Projects\sha256rename\sha256rename\bin\Release\sha256rename.exe
+c:\users\aaron\documents\visual studio 2015\Projects\sha256rename\sha256rename\bin\Release\sha256rename.pdb
+c:\users\aaron\documents\visual studio 2015\Projects\sha256rename\sha256rename\obj\Release\sha256rename.exe
+c:\users\aaron\documents\visual studio 2015\Projects\sha256rename\sha256rename\obj\Release\sha256rename.pdb
